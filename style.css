@@ -1,7 +1,7 @@
 #renato{
   border-radius: 50%;
-  height: calc(15vh);
-  width: calc(15vh);
+  height: calc(5vh);
+  width: calc(5vh);
   margin-right: calc(1vh);
   align: right;
 }
