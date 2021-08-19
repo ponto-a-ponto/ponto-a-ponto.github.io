@@ -1,8 +1,15 @@
 
+#mosh{
+  cursor: cell;
+}
 
+#insta{
+  cursor:pointer;
+}
 
-
-
+#facebook{
+  cursor:pointer;
+}
 
 body{
   font-family: "sora";
