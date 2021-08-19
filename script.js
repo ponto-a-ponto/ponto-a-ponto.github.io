@@ -1,5 +1,12 @@
 
 jQuery(document).ready(function($) {
-  $(".table-inline").hide()
-  console.log($(".table-inline"))
+
+  $("#insta").click(function(){
+    window.open('https://www.instagram.com/pontaponto__/', '_blank');
+  })
+  $("#facebook").click(function(){
+    window.open('https://www.facebook.com/pontaponto1', '_blank');
+  })
+
+
 });

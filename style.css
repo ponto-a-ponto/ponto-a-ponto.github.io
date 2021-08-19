@@ -1,3 +1,18 @@
+#renato{
+  border-radius: 50%;
+  height: calc(15vh);
+  width: calc(15vh);
+  margin-right: calc(1vh);
+  align: right;
+}
+#ovo{
+  border-radius: 50%;
+  height: calc(15vh);
+  width: calc(15vh);
+  margin-right: calc(1vh);
+  align: right;
+}
+
 
 #mosh{
   cursor: cell;
